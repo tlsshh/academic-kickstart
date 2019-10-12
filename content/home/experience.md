@@ -33,6 +33,6 @@ date_format = "Jan 2006"
   location = "Hangzhou, China"
   date_start = "2018-11-01"
   date_end = "2019-04-30"
-  description = """Intrinsic Image Decomposition with Surface Normal Priors"""
+  description = """Inductive transfer learning from surface normal estimation for intrinsic image decomposition"""
 
 +++
