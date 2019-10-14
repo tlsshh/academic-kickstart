@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hangzhou, China"
   date_start = "2019-07-01"
-  date_end = "2020-08-20"
+  date_end = "2019-08-20"
   description = """ 3D Reconstruction from a Single Panorama  """
 
 [[experience]]
