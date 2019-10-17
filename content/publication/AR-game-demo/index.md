@@ -2,7 +2,7 @@
 title: "Jumping Rabbits! -- an AR shooting game taken place on real-world planes"
 authors:
 - admin
-date: 2019-10-10T11:23:53+08:00
+date: 2017-06-01T11:23:53+08:00
 lastmod: 2019-10-10T11:23:53+08:00
 doi: ""
 
