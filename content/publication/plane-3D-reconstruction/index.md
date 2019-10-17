@@ -2,7 +2,7 @@
 title: "Real-time Multi-Plane 3D Reconstruction in Indoor Scenes on
 Mobile Platform"
 authors:
-- Jundan Luo at ZJU & SenseTime Laboratory
+- Jundan Luo
 date: 2019-10-10T11:23:53+08:00
 lastmod: 2019-10-10T11:23:53+08:00
 doi: ""
