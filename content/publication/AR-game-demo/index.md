@@ -1,5 +1,5 @@
 ---
-title: "Jumping Rabbits! -- an AR shooting game taken place on real-world planes"
+title: "Jumping Rabbits! -- an AR shooting game taking place on real-world planes"
 authors:
 - admin
 date: 2017-06-01T11:23:53+08:00
@@ -19,10 +19,10 @@ publication_types: []
 publication: ""
 publication_short: ""
 
-abstract: The augmented reality shooting game takes place in multiple planar regions in the real world. Move your phone to watch the rabbits and shoot! <br> A SLAM SDK was used to estimate the camera pose. The real-world 3D point cloud was reconstructed by stereo-matching, and I used an image-based segmentation algorithm to extract planes. The game is rendered by Unity3D.
+abstract: The augmented reality shooting game took place in multiple planar regions in the real world. Move your phone to watch the rabbits and shoot! <br> A SLAM SDK was used to estimate the camera pose. The real-world 3D point cloud was reconstructed by stereo-matching, and I used an image-based segmentation algorithm to extract planes. The game was rendered by Unity3D.
 
 # Summary. An optional shortened abstract.
-summary: The AR shooting game takes place in multiple planar regions in the real world. Move your phone to watch the rabbits and shoot!
+summary: The AR shooting game took place in multiple planar regions in the real world. Move your phone to watch the rabbits and shoot!
 
 tags: ["AR", "computer vision", "3D plane reconstruction"]
 featured: false
