@@ -28,12 +28,12 @@ tags: ["AR", "computer vision", "intrinsic image decomposition", "shading estima
 featured: false
 
 links:
-url_video: 'https://www.youtube.com/watch?v=htht3CGYiHk'
+url_video: 'https://www.youtube.com/watch?v=-mgcOvlVxuY'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'the original input image (small) and the editted image (large): [**longer editted image sequences \[video\]**](https://www.youtube.com/watch?v=htht3CGYiHk)'
+  caption: 'the original input image (small) and the edited image (large): [**longer edited image sequences \[video\]**](https://www.youtube.com/watch?v=-mgcOvlVxuY)'
   focal_point: ""
   preview_only: false
 
