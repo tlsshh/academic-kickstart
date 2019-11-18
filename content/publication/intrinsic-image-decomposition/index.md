@@ -1,9 +1,9 @@
 ---
-title: "Inductive transfer learning from surface normal estimation for intrinsic image decomposition"
+title: "Intrinsic image decomposition with surface normal cues [submitted]"
 authors:
-- Jundan Luo, Zhaoyang Huang
+- Jundan Luo, Zhaoyang Huang, Yijin Li, Xiaowei Zhou, Guofeng Zhang, Hujun Bao
 date: 2019-10-10T11:23:53+08:00
-lastmod: 2019-10-10T11:23:53+08:00
+lastmod: 2019-11-18T11:23:53+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publication_types: []
 publication: ""
 publication_short: ""
 
-abstract: The project aimed to decompose an indoor single image into a shading image and a reflectance image based on deep neural networks. To solve two main problems in shading estimation, we proposed to do inductive transfer learning with inductive biases from surface normal estimation. Our proposed framework significantly improved the realism of the image editing application. To our knowledge, we outperformed the state-of-the-art works in shading estimation.
+abstract: The project aimed to decompose a single indoor image into a shading image and a reflectance image based on deep neural networks. To alleviate two main difficulties in shading estimation, we proposed to incorporate surface normal cues. Our proposed framework significantly improved the realism of the image editing application. To our knowledge, we outperformed state-of-the-art methods in shading estimation. **[submitted]**
 
 # Summary. An optional shortened abstract.
-summary: The project leveraged deep neural networks to decompose an indoor single image into a shading image and a reflectance image.
+summary: The project incorporated surface normal cues to decompose an indoor single image into a shading image and a reflectance image.
 
 tags: ["AR", "computer vision", "intrinsic image decomposition", "shading estimation"]
 featured: false
@@ -54,6 +54,6 @@ projects: []
 # Click the *Slides* button above to demo Academic's Markdown slides feature.
 # {{% /alert %}}
 ---
-##### Our goal was to resolve two main problems in shading estimation:
+##### Our goal was to alleviate two main difficulties in shading estimation:
   - Distinguishing shading from reflectance
   - Lack of training data

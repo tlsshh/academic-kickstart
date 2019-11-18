@@ -71,4 +71,4 @@ user_groups:
   - Student
 ---
 
-I'm a pre-final year M.S. student in College of Computer Science and Technology at Zhejiang University, advised by Prof. Guofeng Zhang. My research interests lie in computer vision and deep learning, particularly in scene understanding, such as intrinsic image decomposition, depth/normal estimation and 3D plane reconstruction.
+I'm a pre-final year M.S. student in the College of Computer Science and Technology at Zhejiang University, advised by Prof. Guofeng Zhang. My research interests lie in computer vision and deep learning, particularly in scene understanding, such as intrinsic image decomposition, depth/normal estimation, and 3D plane reconstruction.
