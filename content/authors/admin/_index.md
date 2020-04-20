@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and deep learning.
+bio: My research interests include computer vision and image processing.
 
 interests:
 - Intrinsic Image Decomposition
+- Photo-realistic Image Editing
 - 3D Plane Reconstruction
-- Depth/Normal Estimation
+# - Depth/Normal Estimation
 
 education:
   courses:
@@ -71,4 +72,5 @@ user_groups:
   - Student
 ---
 
-I'm a pre-final year M.S. student in the College of Computer Science and Technology at Zhejiang University, advised by Prof. Guofeng Zhang. My research interests lie in computer vision and deep learning, particularly in scene understanding, such as intrinsic image decomposition, depth/normal estimation, and 3D plane reconstruction.
+I'm a final-year M.S. student in the College of Computer Science and Technology at Zhejiang University, supervised by Prof. Guofeng Zhang. My research interests lie in computer vision and image processing, particularly in scene 3D understanding and photo-realistic image editing.
+<!-- , such as intrinsic image decomposition, depth/normal estimation, and 3D plane reconstruction. -->

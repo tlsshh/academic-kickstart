@@ -1,6 +1,5 @@
 ---
-title: "Real-time Multi-Plane 3D Reconstruction in Indoor Scenes on
-Mobile Platform"
+title: "Real-time multi-plane 3D reconstruction on the mobile platform"
 authors:
 - Jundan Luo
 date: 2018-02-01T11:23:53+08:00
